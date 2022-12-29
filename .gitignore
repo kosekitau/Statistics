@@ -4,6 +4,7 @@ __pycache__/
 .Rhistory
 *.py[cod]
 *$py.class
+data/
 
 # C extensions
 *.so
